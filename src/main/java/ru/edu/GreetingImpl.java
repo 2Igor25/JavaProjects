@@ -28,7 +28,7 @@ public class GreetingImpl implements Greeting{
 
     @Override
     public Collection<String> getHobbies() {
-        return new LinkedList<>(List.of("Программирование","Баскетбол", "Математика"));
+        return new LinkedList<>(List.of("Программирование ","Баскетбол", "Математика"));
     }
 
 

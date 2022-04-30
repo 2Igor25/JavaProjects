@@ -12,6 +12,7 @@ public class GreetingImplTest extends TestCase {
     }
 
     public void testGetLastName() {
+
     }
 
     public void testGetBirthYear() {
