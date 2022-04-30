@@ -34,7 +34,7 @@ public class GreetingImpl implements Greeting{
 
     @Override
     public String getPhone() {
-        return "89824757...";
+        return "8982475ю...";
     }
 
 

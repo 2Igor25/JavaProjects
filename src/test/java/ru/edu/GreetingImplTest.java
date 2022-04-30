@@ -8,6 +8,7 @@ public class GreetingImplTest extends TestCase {
     }
 
     public void testGetSecondName() {
+
     }
 
     public void testGetLastName() {
