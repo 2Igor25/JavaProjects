@@ -28,18 +28,18 @@ public class GreetingImpl implements Greeting{
 
     @Override
     public Collection<String> getHobbies() {
-        return new LinkedList<>(List.of("Программирование ","Баскетбол", "Математика"));
+        return new ArrayList<String>(List.of("Программирование ","Баскетбол", "Математика"));
     }
 
 
     @Override
     public String getPhone() {
-        return "8982475ю...";
+        return "8982475....";
     }
 
 
     @Override
     public Collection<String> getEducationInfo() {
-        return new LinkedList<>(List.of("Лицей 9","Колледж СПО при ПГНИУ"));
+        return new ArrayList<String>(List.of("Лицей 9","Колледж СПО при ПГНИУ"));
     }
 }
